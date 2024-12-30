@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ÖDEV TESLİM_1/1.0.0": {
+        "runtime": {
+          "ÖDEV TESLİM_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ÖDEV TESLİM_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
